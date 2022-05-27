@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(86, 75, 96);
+    font-size: 100%;
+    font-size: 11pt;
+    background-color:beige;
+}
+
+.title_heading{
+    color:black;
+    
+}
+#title {
+    text-align: center;
+    font-size: 22pt;
+    font-weight: bold;
+}
+a {
+    color: blue;
+}
+em{
+    color: blueviolet;
+}
