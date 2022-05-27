@@ -1,0 +1,12 @@
+.receipe h2{
+    background-color: rgb(181, 181, 177);
+}
+.comments p{
+    background-color: yellow;
+    padding: 20px;
+
+}
+.receipe.comments p{
+    margin: 0;
+    
+} 
